@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Expected Result: 404-User not found</description>
+   <name>TC_5_Delete User_Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7f98e1b9-e475-4a98-996e-8b796a67aa9f</testCaseGuid>
+</TestCaseEntity>

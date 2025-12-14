@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_4_Success Delete User</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>208d66c0-74c6-44dd-8ea0-3e5c78fcc8e5</testCaseGuid>
+</TestCaseEntity>
